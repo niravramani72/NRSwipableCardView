@@ -9,7 +9,7 @@ NRSwipableCardView is a SwiftUI package for displaying customizable swipable car
 - **Smooth Animations**: Enjoy smooth swipe animations with feedback.
 
 # Preview
-![](https://github.com/niravramani72/NRStarRatingView/blob/main/preview.gif)
+![](https://github.com/niravramani72/NRSwipableCardView/blob/main/preview.gif)
 
 
 ## Installation
